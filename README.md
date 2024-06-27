@@ -1,9 +1,9 @@
 
+
+```kotlin
 class AboutMe {
-    val firstName = "Martin"
-    val lastName = "Kiperszmid"
-    val linkedin = "https://www.linkedin.com/in/DevMartinKiperszmid/"
--   val yearsOfExperience = 4
-+   val yearsOfExperience = 5
+    val firstName = "Aman"
+    val lastName = "Naruka"
+    val yearsOfExperience = 1
     val role = "Android Engineer"
 }
